@@ -1,0 +1,1 @@
+### 我的 `vscode` 的 `C/C++` 插件相关的 `.vscode` 配置，主要是针对windows平台的。
