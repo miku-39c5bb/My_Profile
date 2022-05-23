@@ -1,1 +1,1 @@
-### 我的 `vscode` 的 `settings.json` 配置文件。
+我的 `vscode` 的 `settings.json` 配置文件。

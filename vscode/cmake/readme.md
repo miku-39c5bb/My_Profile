@@ -1,1 +1,1 @@
-### 由于 `vscode` 的 `cmake` 插件不能进行有命令行参数的调试，所以需要借助 `launch.json`。
+由于 `vscode` 的 `cmake` 插件不能进行有命令行参数的调试，所以需要借助 `launch.json`。
